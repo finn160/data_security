@@ -15,17 +15,18 @@ If you can access the app, follow these steps:
 ### Step 1
 Open the app, go to **More**, and tap your profile photo in the top-left corner.
 
-![Step 1](step1.png)
+<img src="step1.png" alt="Step 1" width="300" />
+
 
 ### Step 2
 Tap **Account & Security**.
 
-![Step 2](step2.png)
+<img src="step2.png" alt="Step 2" width="300" />
 
 ### Step 3
 Scroll to the bottom and tap **Delete Account**.
 
-![Step 3](step3.png)
+<img src="step3.png" alt="Step 3" width="300" />
 
 ## If You Cannot Access the App
 
